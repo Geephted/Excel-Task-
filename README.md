@@ -42,7 +42,7 @@ o	The total revenue generated from the sales of ‘Montana’ in Canada
 o	In which Country, Segment and Month was the highest unit of goods sold?
 o	What is the total profit made in December?
 
-### Tools Used
+### Tool Used
 
 Microsoft Excel: Used for data manipulation, analysis, and visualization.
 
