@@ -31,8 +31,7 @@ Save the Excel file.
 
 ![](Excel_1st_task_sheet_2.jpg)
 
-![](Excel_1st_task_sheet_1.jpg)
- 
+![](Excel_1st_task_sheet_3.jpg)
 
 
 2. To determine the following below
